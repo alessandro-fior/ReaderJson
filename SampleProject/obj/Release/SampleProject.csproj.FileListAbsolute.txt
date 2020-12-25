@@ -1,0 +1,8 @@
+D:\WebApplication3\SampleProject\bin\SampleProject.dll
+D:\WebApplication3\SampleProject\bin\SampleProject.pdb
+D:\WebApplication3\SampleProject\bin\Newtonsoft.Json.dll
+D:\WebApplication3\SampleProject\bin\Newtonsoft.Json.Schema.dll
+D:\WebApplication3\SampleProject\bin\Newtonsoft.Json.xml
+D:\WebApplication3\SampleProject\bin\Newtonsoft.Json.Schema.xml
+D:\WebApplication3\SampleProject\obj\Release\SampleProject.dll
+D:\WebApplication3\SampleProject\obj\Release\SampleProject.pdb
